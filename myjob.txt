@@ -7,8 +7,13 @@ Responsibilities:
 หน้าที่รับผิดชอบ
 
 Designing and implementing Java-based applications
+การออกแบบและการใช้งานแอปพลิเคชันบนจาวา
+
 Analyzing user requirements to inform application design
+วิเคราะห์ความต้องการของผู้ใช้เพื่อแจ้งการออกแบบแอพพลิเคชั่น
+
 Debugging and resolving technical problems that arise
+การดีบักและการแก้ไขปัญหาทางเทคนิคที่เกิดขึ้น
 
 
 
@@ -16,8 +21,14 @@ Requirements:
 คุณสมบัติที่ต้องการ
 
 At least 1 year's working experience in Java platform programming.
+มีประสบการณ์การทำงานอย่างน้อย 1 ปีในการเขียนโปรแกรมแพลตฟอร์มจาวา
+
 Experience with user interface design and database structures
+มีประสบการณ์ในการออกแบบส่วนต่อประสานกับผู้ใช้และโครงสร้างฐานข้อมูล
+
 Familiar with various design and architectural patterns
+คุ้นเคยกับการออกแบบและรูปแบบสถาปัตยกรรมต่างๆ
+
 
 
 
